@@ -1,0 +1,575 @@
+.ernodisplay{
+	display:block;
+}
+.iti__selected-flag{
+	height:40px;
+}
+span.previous_arrow_button {
+    position: absolute;
+    top: -182px;
+    left: 5px;
+	cursor: pointer;
+}
+span.previous_arrow_button span {
+    color: #fff;
+	font-weight: 400;
+    font-size: 30px;
+}
+button.previous_arrow_button span:hover {
+    color: #fff;
+	font-weight: 400;
+    font-size: 35px;
+}
+#gform_1 .gform_fields .gfield_label{
+	display:unset !important;
+	text-align:left;
+	font-size: unset !important;
+}
+.gfield_description span.error-text{
+	display:none;
+}
+#gform_1 .gform_fields  .gfield_description{
+	padding:0px;
+	text-align:left;
+}
+input#input_1_107::-webkit-outer-spin-button, input#input_1_107::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.custom-form-css input[type="text"],.custom-form-css input[type=number],.custom-form-css input[type=email],.custom-form-css input[type=tel],.custom-form-css input[type=url],.custom-form-css textarea,.custom-form-css input[type="file" i]  {
+    border: none !important;
+	height: 40px !important;
+	color: #a9a5ab !important;
+}
+.custom-form-css span.gform_drop_instructions {
+    color: #a9a5ab !important;
+    font-weight: 400;
+}
+.custom-form-css button#gform_browse_button_1_46 {
+    color: transparent;
+    border: none !important;
+    border-radius: 5px;
+    width: unset !important;
+    height: unset !important;
+    cursor: pointer;
+    background: white;
+	
+		
+}
+.custom-form-css input[type="file" i] {
+    padding: 8px !important;
+	padding-top: 10px !important;
+		
+}
+.custom-form-css label, .custom-form-css .gfield_description,.custom-form-css .gform_fileupload_rules {
+    font-size: 14px !important;
+    font-weight: 400;
+	color: white !important;
+	line-height:1.5 !important;
+}
+.custom-form-css input {
+    background-color: #fff;
+    color: #333 !important;
+    font-family: inherit !important;
+}
+.custom-form-css .gf_progressbar_title {
+    color: #000000 !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+}
+.custom-form-css label.gfield_consent_label {
+    color: #000000;
+    font-weight: 400;
+    font-size: 16px !important;
+}
+.custom-form-css div#field_1_25 {
+	margin: 0px !important;
+}
+.custom-form-css div#field_1_25 h3,div#field_1_49 h3 {
+    font-size: 21px !important;
+    font-weight: 500 !important;
+	color: white !important;
+	height: 40px !important;
+}
+.custom-form-css .gf_progressbar_percentage.percentbar_blue {
+    background-color: #f0823e !important;
+    color: #fff;
+}
+h2.gform_title {
+   color: white !important;
+font-size: 2rem !important;
+font-weight: 500 !important;
+padding: 0 40px 0 40px !important;
+display: flex;
+	height: 80px !important;
+justify-content: center;
+}
+.custom-form-css input[type=text] {
+    border: 1px solid #ccc !important;
+	color: #A8A4A3 !important;
+}
+.custom-form-css .gfield textarea.large {
+    height: 150px !important;
+}
+.custom-form-css select {
+    border: none !important;
+    padding: 8px !important;
+	background: white !important;
+	height: 40px !important;
+	font-family: inherit!important;
+	appearance: none;
+}
+.custom-form-css .gfield_label {
+    font-weight: 500!important;
+    color: #fff!important;
+    font-size: 16px!important;
+    display: flex !important;
+    justify-content: center !important;
+	font-family: inherit !important;
+}
+.custom-form-css input[type=button],.custom-form-css input[type=submit] {
+    background-color: #0EB2AB !important;
+    border: 3px solid white !important;
+    color: white !important;
+	width: 100% !important;
+text-align: center !important;
+height: 50px !important;
+font-size: 25px !important;
+text-transform: unset !important;
+	padding: 0px !important;
+	margin: 0px !important;
+	font-weight: 600 !important;
+	margin-top: 15px !important;
+	
+}
+input[type=submit]:hover {
+    color: #fff !important;
+}
+.custom-form-css input[type=button]:hover,.custom-form-css input[type=submit]:hover{
+	background-color: white !important;
+    border: 1px solid white !important;
+color: #0EB2AB !important;
+    cursor: pointer;
+}
+.custom-form-css .gform_body.gform-body {
+    padding: 0px 40px 0px 40px;
+}
+.custom-form-css .gf_page_steps {
+    display: flex !important;
+    flex-direction: row !important;
+	padding: 0px 40px 0px 40px !important;
+	border-bottom: none !important;
+    padding-bottom: 30px !important;
+}
+.gform_wrapper.gravity-theme .gf_step {
+    display: flex !important;
+    flex-direction: column !important;
+    margin: 0px !important;
+	align-items: center;
+	text-align: center;
+}
+.custom-form-css .gform_page_footer svg {
+    display: none !important;
+}
+.custom-form-css .gform_page_footer.top_label {
+    display: inline;
+}
+.custom-form-css .gform_page_footer .gform_save_link.button {
+    margin-top: 20px !important;
+    border: none !important;
+    background-color: transparent;
+    color: white;
+	text-decoration: underline;
+	width: 100%;
+	cursor: pointer;	
+}
+.custom-form-css span.gf_step_label {
+    padding: 0px !important;
+    margin-top: 10px !important;
+    padding-right: 10px !important;
+    color: white !important;
+	font-weight: 400 !important;
+	font-size: 20px !important;
+	line-height: 25px !important;
+}
+.custom-form-css input[type="tel"] {
+      padding-left: 100px!important;
+}
+.custom-form-css .gf_step_number {
+    background: transparent !important;
+    color: white !important;
+    border: 2px solid white !important;
+	font-size: 30px !important;
+	height: 45px !important;
+	width: 45px !important;
+	border-radius: 100px !important;
+	font-weight: 300 !important;
+}
+.gform_wrapper.gravity-theme .ginput_full:not(:last-of-type) {
+    margin-bottom: 25px !important;
+}
+.custom-form-css .gf_step_completed .gf_step_number::before {
+    background: #0EB2AB !important;
+    border: 2px solid #0EB2AB !important;
+}
+/* .custom-form-css input[type=button] ,.custom-form-css input[type=submit]{
+    margin: 0px 10px 0px 10px !important;
+} */
+.custom-form-css input[type="text"] {
+    border: none!important;
+	height: 40px !important;
+}
+.gf_step_completed span.gf_step_number {
+  border: none !important;
+}
+.gf_step_completed .gf_step_number::after{
+	font-size: 30px !important;
+	padding-bottom: 4px !important;
+    padding-right: 3px !important;
+}
+.custom-form-css .gchoice label {
+  font-size: 20px !important;
+}
+.before-after-styling{
+	position: relative;
+}
+.before-after-styling::before {
+  content: '';
+  position: absolute !important;
+  left: -70px;
+  width: 60px;
+  height: 1px;
+  bottom: 1px;
+  background-color: white;
+  display: inline-block;
+  top: 20px;
+  right: 83px;
+	border: 1px solid white;
+}
+.before-after-styling::after {
+  content: '';
+  position: absolute !important;
+  left: 53px;
+  width: 60px;
+  height: 1px;
+  bottom: 1px;
+  background-color: white;
+  top: 20px;
+	border: 1px solid white;
+}
+.custom-form-css #field_1_16 input {
+  width: 30px !important;
+  height: 20px !important;
+}
+.custom-form-css #gform_previous_button_1_24,.custom-form-css #gform_previous_button_1_30,.custom-form-css #gform_previous_button_1_34,.custom-form-css #gform_previous_button_1_47,.custom-form-css #gform_previous_button_1 {
+  margin-right: 20px !important;
+}
+.custom-form-css .gchoice input {
+  width: 30px !important;
+  height: 20px !important;
+}
+.gfield_checkbox {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.logo {
+  margin-bottom: 0px !important;
+}
+.custom-form-css .gfield.gfield--width-full {
+  margin: 0px !important;
+}
+
+.custom-form-css .gform_fields .gfield {
+  margin: 0px 0px 10px !important;
+}
+.custom-form-css #field_1_55,.custom-form-css #field_1_56,.custom-form-css #field_1_49 {
+  margin: 0px !important;
+}
+#gform_confirmation_message_1 {
+  color: white !important;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 20px;
+}
+legend.gfield_label.gfield_label_before_complex {
+    font-size: 20px!important;
+}
+.custom-form-css .charleft.ginput_counter,.custom-form-css .instruction  {
+    display: none !important;
+}
+.dropdown-selection select.large {
+    width: 90px !important;
+}
+.select-choice .gchoice label {
+    font-size: 17px!important;
+}
+.last-paragraph p {
+    font-size: 16px !important;
+    color: white !important;
+    font-weight: 400;
+}
+.dropdown-selection .ginput_container_select {
+    display: flex;
+    justify-content: center;
+}
+.link-field input#choice_1_72_1 {
+    display: none !important;
+}
+.link-field .gfield_checkbox {
+    display: grid;
+   grid-template-columns: auto !important;
+}
+.link-field label#label_1_72_1 {
+    display: flex !important;
+    justify-content: center !important;
+	cursor: pointer;
+	    text-decoration: underline;
+}
+.gform_previous_button {
+   visibility: hidden;
+    position: absolute !important;
+    left: -1000%;
+}
+.form-name-field .ginput_complex {
+    display: flex !important;
+    flex-direction: column !important;
+}
+.form-name-field span.name_last {
+    margin-top: 25px !important;
+    padding-left: 0px !important;
+}
+.form-name-field span.name_first {
+    padding-right: 0px !important;
+}
+.custom-form-css button#gform_browse_button_1_46::after {
+   content: '';
+    width: 100px;
+    background-image: url(http://osmuzysuzy.com/wp-content/uploads/2022/09/cloud-computing-1.png);
+    height: 100px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -32px;
+}
+.form_saved_message h2 {
+    font-size: 25px !important;
+	color: white !important;
+	line-height: 1.3 !important;
+	padding-bottom: 10px !important;
+}
+	.form_saved_message p, .form_saved_message p a{
+  color: white;
+  line-height: 1.3;
+}
+.gform_resume_email_label.gfield_label {
+  color: white;
+  margin-top: 10px;
+}
+#gform_send_resume_link_button_1 {
+  color: white !important;
+  border: 2px solid white;
+	background-color: #0EB2AB !important;
+}
+#gform_send_resume_link_button_1:hover {
+  background: white !important;
+  color:  #0EB2AB !important;
+}
+.gform_drop_area {
+	background: white;
+	padding: 20px 0px !important;
+}
+.gform_heading p.gform_required_legend {
+    display: none !important;
+}
+.gfield_validation_message.gfield_description{
+	 color: #c02b0a !important;
+}
+.gfield_validation_message.gfield_description font {
+    color: #c02b0a !important;
+    align-items: center !important;
+    display: flex;
+    margin: 0px !important;
+    padding: 0px !important;
+    padding-top: 0px !important;
+}
+body .gform_wrapper .gfield_description {
+    padding: 13px;
+}
+.ginput_container.ginput_container_select {
+  display: flex;
+  position: relative;
+}
+span#ernomin{
+	color: #c02b0a !important;
+	font-size: 16px !important;
+}
+.ginput_container.ginput_container_select::after {
+  content: '';
+  width: 25px;
+  height: 25px;
+  display: inline-block !important;
+  position: absolute;
+  background-image: url(http://osmuzysuzy.com/wp-content/uploads/2022/09/down-arrow.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  right: 15px;
+  top: 7px;
+  cursor: pointer;
+  z-index: 1;
+  pointer-events: none;
+}
+div#field_1_63,div#field_1_78,div#field_1_89 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.dropdown-selection .ginput_container.ginput_container_select::after {
+    content: '';
+    width: 25px;
+    height: 25px;
+    display: inline-block!important;
+    position: absolute;
+    background-image: url(http://osmuzysuzy.com/wp-content/uploads/2022/09/down-arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: 15px;
+    top: 7px;
+    cursor: pointer;
+    pointer-events: none;
+}
+span.ginput_address_country {
+    position: relative;
+}
+span.ginput_left.address_country.ginput_address_country::before {
+    content: '';
+    width: 25px;
+    height: 25px;
+    display: inline-block!important;
+    position: absolute;
+    background-image: url(http://osmuzysuzy.com/wp-content/uploads/2022/09/down-arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: 20px;
+    top: 7px;
+    cursor: pointer;
+    pointer-events: none;
+}
+.gfield_error .ginput_address_country:after {
+    content: "Bitte tragen Sie hier Ihren Ort ein";
+    padding: 13px;
+    margin-top: 8px;
+    display: block;
+   font-size: 14px;
+	font-weight: 400;
+  color: #c02b0a!important;
+	    background: #fff9f9;
+	border: 1px solid  #c02b0a;
+}
+.gfield_error .ginput_address_zip:after {
+    content: "Bitte tragen Sie hier Ihre Postleitzahl ein";
+    padding: 13px;
+    margin-top: 8px;
+    display: block;
+   font-size: 14px;
+	font-weight: 400;
+    color: #c02b0a!important;
+	    background: #fff9f9;
+		border: 1px solid  #c02b0a;
+}
+.gfield_error .ginput_address_line_1:after {
+    content: "Es fehlt Ihre Anschrift. Bitte tragen Sie Straße und Hausnummer ein";
+    padding: 13px;
+    margin-top: 8px;
+    display: block;
+    font-size: 14px;
+	font-weight: 400;
+    color: #c02b0a!important;
+	    background: #fff9f9;
+		border: 1px solid  #c02b0a;
+}
+div#validation_message_1_5 {
+    display: none;
+}
+@media(max-width:768px){
+.custom-form-css .gform_body.gform-body {
+  padding: 0 10px 0 10px !important;
+ }
+	.custom-form-css input[type=button],.custom-form-css input[type=submit] {
+		font-size: 18px !important;
+	}
+	h2.gform_title{
+		font-size: 20px !important;
+		height: 50px !important;
+	}
+	.custom-form-css div#field_1_25 h3, div#field_1_49 h3{
+		font-size: 18px !important;
+		line-height: 1.4 !important;
+	}
+	.custom-form-css .gform_fields .gfield {
+  margin: 0 0 0px !important;
+}
+	.custom-form-css div#field_1_25 h3{
+				font-size: 17px !important;
+		        height: 40px !important;
+                display: inline-block;
+	}
+	.custom-form-css .gchoice label{
+		font-size: 16px !important;
+	}
+	.custom-form-css span.gf_step_label{
+		font-size: 15px !important;
+	}
+	.custom-form-css .gfield_label,.custom-form-css label.gfield_consent_label{
+		font-size: 13px !important;
+		text-align: center !important;
+	}
+	legend.gfield_label.gfield_label_before_complex {
+    font-size: 16px!important;
+    text-align: left !important;
+}
+	.custom-form-css .select-choice .gchoice label {
+    font-size: 15px!important;
+		line-height: 1.2 !important;
+}
+	.last-paragraph p {
+    font-size: 14px!important;
+    color: #fff!important;
+    font-weight: 400;
+}
+	.select-choice input {
+    margin: 0px !important;
+}
+	.custom-form-css .gchoice input {
+    width: 20px!important;
+    height: 20px!important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+	.gform_wrapper.gravity-theme .ginput_full:not(:last-of-type) {
+  margin-bottom: 15px !important;
+}
+	#input_1_5_5 {
+  margin-bottom: 10px;
+}
+	.form-name-field span.name_last {
+  margin-top: 10px !important;
+		margin-bottom: 0px !important;
+	}
+/* 	.custom-form-css button#gform_browse_button_1_46{
+		width: 150px !important;
+	} */
+	.custom-form-css .gf_step_number{
+		padding-top: 0px !important;
+	}
+	.big-text textarea {
+  font-size: 13px !important;
+}
+	.form_saved_message h2 {
+  font-size: 18px !important;
+  line-height: 1.3 !important;
+}
+#gform_resume_email {
+  width: 100%;
+}	
+}
